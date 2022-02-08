@@ -1,25 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\shaunj\\OneDrive - Bridgwater and Taunton College\\H Drive\\_HE Units\\SCDT52 - UX and Full Stack\\POST REQUESTS\\React-Class-Demo\\ToyAPI\\ToyAPI\\ToyAPI.csproj": {}
+    "C:\\Users\\TUR18001044\\OneDrive - Bridgwater and Taunton College\\University\\Year 2\\UX and Full Stack Development\\Lesson 19 - Edit Products\\React-Class-Demo\\ToyAPI\\ToyAPI\\ToyAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\shaunj\\OneDrive - Bridgwater and Taunton College\\H Drive\\_HE Units\\SCDT52 - UX and Full Stack\\POST REQUESTS\\React-Class-Demo\\ToyAPI\\ToyAPI\\ToyAPI.csproj": {
+    "C:\\Users\\TUR18001044\\OneDrive - Bridgwater and Taunton College\\University\\Year 2\\UX and Full Stack Development\\Lesson 19 - Edit Products\\React-Class-Demo\\ToyAPI\\ToyAPI\\ToyAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\shaunj\\OneDrive - Bridgwater and Taunton College\\H Drive\\_HE Units\\SCDT52 - UX and Full Stack\\POST REQUESTS\\React-Class-Demo\\ToyAPI\\ToyAPI\\ToyAPI.csproj",
+        "projectUniqueName": "C:\\Users\\TUR18001044\\OneDrive - Bridgwater and Taunton College\\University\\Year 2\\UX and Full Stack Development\\Lesson 19 - Edit Products\\React-Class-Demo\\ToyAPI\\ToyAPI\\ToyAPI.csproj",
         "projectName": "ToyAPI",
-        "projectPath": "C:\\Users\\shaunj\\OneDrive - Bridgwater and Taunton College\\H Drive\\_HE Units\\SCDT52 - UX and Full Stack\\POST REQUESTS\\React-Class-Demo\\ToyAPI\\ToyAPI\\ToyAPI.csproj",
-        "packagesPath": "C:\\Users\\shaunj\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\shaunj\\OneDrive - Bridgwater and Taunton College\\H Drive\\_HE Units\\SCDT52 - UX and Full Stack\\POST REQUESTS\\React-Class-Demo\\ToyAPI\\ToyAPI\\obj\\",
+        "projectPath": "C:\\Users\\TUR18001044\\OneDrive - Bridgwater and Taunton College\\University\\Year 2\\UX and Full Stack Development\\Lesson 19 - Edit Products\\React-Class-Demo\\ToyAPI\\ToyAPI\\ToyAPI.csproj",
+        "packagesPath": "C:\\Users\\TUR18001044\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\TUR18001044\\OneDrive - Bridgwater and Taunton College\\University\\Year 2\\UX and Full Stack Development\\Lesson 19 - Edit Products\\React-Class-Demo\\ToyAPI\\ToyAPI\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\shaunj\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\TUR18001044\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
